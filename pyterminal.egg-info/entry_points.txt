@@ -1,0 +1,3 @@
+[console_scripts]
+pyterminal = pyterminal.app:main
+
